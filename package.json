@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ruslan2k/common-functions/issues"
   },
-  "homepage": "https://github.com/ruslan2k/common-functions#readme"
+  "homepage": "https://github.com/ruslan2k/common-functions#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
